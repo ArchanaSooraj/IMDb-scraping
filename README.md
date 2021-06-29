@@ -1,5 +1,4 @@
 # IMDb-scraping
-# IMDb_scraping
 
 collected datas about movies released between 2021-01-01 and 2021-12-31 from IMDb website
 
